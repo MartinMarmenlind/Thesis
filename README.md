@@ -50,6 +50,5 @@ All experiments were performed in Blender using automated Python scripts.
 
 ## Notes
 
-* Scripts are designed for batch processing of multiple models
 * Ensure correct file paths before running
-* Blender version compatibility may affect execution
+* Blender version compatibility may affect execution. Only tested on version 4.15
