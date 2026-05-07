@@ -12,16 +12,16 @@ The files will look similar to this:
 ```text
 Thesis/3D_Models
 ├── model_1
-        ├── model.7z.001
-        ├── model.7z.002
-        ├── model.7z.003
-        ├── ...
+       ├── model.7z.001
+       ├── model.7z.002
+       ├── model.7z.003
+       ...
 ├── model_2
-        ├── mode2.7z.001
-        ├── mode2.7z.002
-        ├── mode2.7z.003
-        ├── ...
-├── ...
+       ├── mode2.7z.001
+       ├── mode2.7z.002
+       ├── mode2.7z.003
+       ...
+...
 └── README.md
 ...
 ```
