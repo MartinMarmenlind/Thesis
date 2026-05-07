@@ -10,10 +10,19 @@ To make them easier to upload, download, and store, each model has been:
 The files will look similar to this:
 
 ```text
-mode_l.7z.001
-mode_l.7z.002
-mode_l.7z.003
-mode_l.7z.004
+Thesis/3D_Models
+├── model_1
+        ├── model.7z.001
+        ├── model.7z.002
+        ├── model.7z.003
+        ├── ...
+├── model_2
+        ├── mode2.7z.001
+        ├── mode2.7z.002
+        ├── mode2.7z.003
+        ├── ...
+├── ...
+└── README.md
 ...
 ```
 
